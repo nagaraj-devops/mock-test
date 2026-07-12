@@ -1,1 +1,1 @@
-function greet() returning 'Hello World'
+function greet() returning 'Hi There'
